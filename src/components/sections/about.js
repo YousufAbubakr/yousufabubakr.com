@@ -144,7 +144,7 @@ const About = () => {
 
             <p>
               When I'm not doing any school related work, I spend most of my time working at{' '}
-              <a href="https://oconnell.berkeley.edu">a Berkeley Biomechanics Lab</a> and{' '}
+              <a href="https://oconnell.berkeley.edu/finite-element-modeling/">a Berkeley Biomechanics Lab</a> and{' '}
               <a href="https://calsol.berkeley.edu">a student-led Solar Vehicle team</a>. My
               main focus these days is expanding my engineering portfolio and I would love any oppurtunity to do so.
             </p>

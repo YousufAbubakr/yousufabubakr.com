@@ -4,7 +4,7 @@ title: 'Aero and Composites Member'
 company: 'CalSol'
 location: 'UC Berkeley'
 range: 'July 2020 - Present'
-url: 'https://web.northeastern.edu/scout/'
+url: 'https://calsol.berkeley.edu'
 ---
 
 

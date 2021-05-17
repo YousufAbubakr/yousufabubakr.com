@@ -4,7 +4,7 @@ title: 'Research Assistant'
 company: 'O''Connell Lab'
 location: 'Berkeley, CA'
 range: 'December 2020 - Present'
-url: 'https://oconnell.berkeley.edu'
+url: 'https://oconnell.berkeley.edu/finite-element-modeling/'
 ---
 
 - Enhanced validation of FEM bovine model by constructing 7+ experiments in FEBio to verify mechanical properties of model over multiple loading modalities and physical, experimental data
