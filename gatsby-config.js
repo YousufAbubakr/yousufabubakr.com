@@ -4,10 +4,10 @@ module.exports = {
   siteMetadata: {
     title: 'Yousuf Abubakr',
     description:
-      'Brittany Chiang is a software engineer who specializes in building (and occasionally designing) exceptional digital experiences.',
-    siteUrl: 'https://brittanychiang.com', // No trailing slash allowed!
+      'Yousuf Abubakr is a mechanical engineer who specializes in CAD modeling and Finite Element Analysis with mechanical systems.',
+    siteUrl: 'https://yousufabubakr.netlify.app', // No trailing slash allowed!
     image: '/og.png', // Path to your image you placed in the 'static' folder
-    twitterUsername: '@bchiang7',
+    twitterUsername: '@YousufAbubakr',
   },
   plugins: [
     `gatsby-plugin-react-helmet`,
@@ -20,8 +20,8 @@ module.exports = {
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
-        name: 'BrittanyChiang',
-        short_name: 'BrittanyChiang',
+        name: 'YousufAbubakr',
+        short_name: 'YousufAbubakr',
         start_url: '/',
         background_color: config.colors.darkNavy,
         theme_color: config.colors.navy,
