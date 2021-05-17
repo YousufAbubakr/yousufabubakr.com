@@ -11,4 +11,4 @@ tech:
 showInProjects: true
 ---
 
-A brief overview of the work I did in Spring 2021. Turns out FEA is a lot more than just hitting the "Run Simulation" button. Computational Modeling is especially important when studying IVDs (intervertebral discs), and I spent a lot of time getting familiar with the software and how we can use it to advance Finite Element Modeling in biomechanics.
+A brief overview of the work I did in Spring 2021. Turns out FEA is a lot more than just hitting the "Run Simulation" button. Computational Modeling is especially important when studying [IVDs (intervertebral discs)](https://www.physio-pedia.com/Intervertebral_disc), and I spent a lot of time getting familiar with the software and how we can use it to advance Finite Element Modeling in biomechanics.
