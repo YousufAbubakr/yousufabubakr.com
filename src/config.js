@@ -12,7 +12,7 @@ module.exports = {
     },
     {
       name: 'Linkedin',
-      url: 'https://www.linkedin.com/in/yousuf-abubakr-9385aa1b4/',
+      url: 'https://www.linkedin.com/in/yousufabubakr/',
     },
   ],
 

@@ -66,7 +66,7 @@ const Hero = () => {
       I'm a Phoenix-based sophmore, engineering student who specializes in computational 
       modeling with CFD and biomechanics. Currently, I'm a mechanical engineering major at{' '}
       <a href="https://me.berkeley.edu">the University of California, Berkeley</a> focused on solving 
-      mechnical problems in research, design, and manufacturing.
+      problems in research, design, and manufacturing.
     </p>
   );
   const five = (
