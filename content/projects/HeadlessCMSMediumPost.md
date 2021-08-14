@@ -6,8 +6,7 @@ external: 'https://grabcad.com/yousuf.abubakr-1'
 tech:
   - SolidWorks
   - Physics
-  - 
-  - 
+  
 company: 'Personal'
 showInProjects: true
 ---
