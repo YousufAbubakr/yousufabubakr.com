@@ -63,7 +63,7 @@ const Hero = () => {
   const three = <h3 className="big-heading">Mechanical Engineer</h3>;
   const four = (
     <p>
-      I'm a Phoenix-based sophmore, engineering student who specializes in computational 
+      I'm a Sudanese American sophmore, engineering student who specializes in computational 
       modeling with CFD and biomechanics. Currently, I'm a mechanical engineering major at{' '}
       <a href="https://me.berkeley.edu">the University of California, Berkeley</a> focused on solving 
       problems in research, design, and manufacturing.

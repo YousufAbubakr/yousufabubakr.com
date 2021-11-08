@@ -11,4 +11,4 @@ company: CalSol
 showInProjects: true
 ---
 
-A complete step-by-step guide on how to get started with ANSYS Fluent simulations using Fluent meshing.
+Getting started with simulation work is hard, so this is a complete step-by-step guide on how to get started with ANSYS Fluent simulations using Fluent meshing.
