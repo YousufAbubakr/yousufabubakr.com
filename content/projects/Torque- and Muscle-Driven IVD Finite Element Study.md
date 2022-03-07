@@ -1,5 +1,5 @@
 ---
-date: '2022-3-01'
+date: '2022-03-01'
 title: 'Torque- and Muscle-Driven IVD Finite Element Study'
 cover: './disc.png'
 
