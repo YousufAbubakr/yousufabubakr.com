@@ -1,14 +1,12 @@
 ---
-date: '2021-5-10'
+date: '2021-09-01'
 title: 'FEM for Biomechanics - Meshing'
-github: ''
-external: 'https://drive.google.com/file/d/1V70UfWR5Nz6F4l-kOqk5TpljQjRyOhHP/view?usp=sharing'
+
+external: 'https://drive.google.com/file/d/1V70UfWR5Nz6F4l-kOqk5TpljQjRyOhHP/view'
 tech:
-  - FEBio
-  - ANSYS Meshing
-  - SolidWorks
+  - ANSYS
 company: O'Connell Lab
-showInProjects: false
+showInProjects: true
 ---
 
-A brief overview of the work I did in Spring 2021. Turns out FEA is a lot more than just hitting the "Run Simulation" button. Computational Modeling is especially important when studying [IVDs (intervertebral discs)](https://www.physio-pedia.com/Intervertebral_disc), and I spent a lot of time getting familiar with the software and how we can use it to advance Finite Element Modeling in biomechanics.
+Modeling fiber-reinforced tissues is almost impossible to measure experimentally, which is why we use FEMs to predict tissue mechanics. Based off [previous literature](https://drive.google.com/file/d/15BXex3SIRjGp0NvJORVRfQm4CWY7zlnf/view), I worked with a 3 layer flat-plate model inscribed with fibers, and it turns out finding a mesh that accurately describes contact regions, accounts for unique material assignment, and accommodates to FEBio simulation parameters is easier said than done.

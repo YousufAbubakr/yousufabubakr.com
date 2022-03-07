@@ -64,9 +64,9 @@ const Hero = () => {
   const four = (
     <p>
       I'm a Sudanese American sophmore, engineering student who specializes in computational 
-      modeling with CFD and biomechanics. Currently, I'm a mechanical engineering major at{' '}
+      modeling with biomechanics and CFD. Currently, I'm a mechanical engineering major at{' '}
       <a href="https://me.berkeley.edu">the University of California, Berkeley</a> focused on solving 
-      problems in research, design, and manufacturing.
+      problems in research, design, and engineering material mechanics.
     </p>
   );
   const five = (
