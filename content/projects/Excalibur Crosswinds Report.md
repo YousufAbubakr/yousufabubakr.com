@@ -1,11 +1,11 @@
 ---
 date: '2022-02-01'
 title: 'Excalibur Crosswinds Report'
-cover: './30degsim2.png'
 
 external: 'https://drive.google.com/file/d/1FzzHdykUTiZ37O-CzXo5-GeOl7qPba_V/view?usp=sharing'
 tech:
   - ANSYS
+company: CalSol
 showInProjects: false
 ---
 
