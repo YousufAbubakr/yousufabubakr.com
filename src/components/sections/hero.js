@@ -63,10 +63,9 @@ const Hero = () => {
   const three = <h3 className="big-heading">Mechanical Engineer</h3>;
   const four = (
     <p>
-      I'm a Sudanese American sophmore, engineering student who specializes in computational 
-      modeling with biomechanics and CFD. Currently, I'm a mechanical engineering major at{' '}
-      <a href="https://me.berkeley.edu">the University of California, Berkeley</a> focused on solving 
-      problems in research, design, and engineering material mechanics.
+      I'm a Sudanese American sophmore, engineering student. Currently, I'm a MechE major and EECS minor 
+      at{' '} <a href="https://me.berkeley.edu">the University of California, Berkeley</a> focused on solving 
+      problems in research and design.
     </p>
   );
   const five = (

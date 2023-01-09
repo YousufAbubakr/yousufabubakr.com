@@ -125,7 +125,7 @@ const About = () => {
     sr.reveal(revealContainer.current, srConfig());
   }, []);
 
-  const skills = ['ANSYS', 'FEBio', 'Gmsh', 'SolidWorks', 'Python', 'Java', 'MATLAB', 'Paraview'];
+  const skills = ['Materials', 'Fluids', 'Machine Learning', 'Information Systems', 'Design', 'FEA', 'Manufacturing'];
 
   return (
     <StyledAboutSection id="about" ref={revealContainer}>
@@ -135,11 +135,12 @@ const About = () => {
         <StyledText>
           <div>
             <p>
-              Hello! My name is Yousuf and I enjoy working on fun mechanics projects. My interest in
-              mechanical engineering started in high school where I first started 3D modeling in SolidWorks - 
-              turns out messing around with surface modeling can teach you a lot about physics &amp; the real world.
-              In my free time, you'll catch me watching the latest Suns game (#DontSleepontheSuns), 
-              working on my shooting form with a basektball, &amp; grinding out my Minecraft world.
+              Whats up! My name is Yousuf and I enjoy working on cool engineering projects. Right now, 
+              I'm enjoying my academic life as a MechE major and EECS minor - as an engineer, I really
+              appreciate the overlap and interplay between these two subjects and the tools they give
+              me to answer engineering questions. In my free time, you WON'T be catching me watching the 
+              latest Suns game, working on my basketball shooting form, &amp; struggling with linear algebra 
+              proofs.
             </p>
 
             <p>
@@ -149,7 +150,7 @@ const About = () => {
               main focus these days is expanding my engineering portfolio and I would love any oppurtunity to do so.
             </p>
 
-            <p>Here are a few softwares/technologies I've been working with recently:</p>
+            <p>Here are a few MechE/EECS topics I've been enjoying recently:</p>
           </div>
 
           <ul className="skills-list">
@@ -161,7 +162,7 @@ const About = () => {
           <div className="wrapper">
             <StaticImage
               className="img"
-              src="../../images/me.jpg"
+              src="../../images/me2.jpg"
               width={500}
               quality={95}
               formats={['AUTO', 'WEBP', 'AVIF']}
