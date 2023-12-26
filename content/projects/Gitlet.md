@@ -6,8 +6,8 @@ external: 'https://github.com/YousufAbubakr'
 tech:
   - Java
   - Git
-  company: UC Berkeley
-  showInProjects: true
+company: UC Berkeley
+showInProjects: true
 
 ---
 
