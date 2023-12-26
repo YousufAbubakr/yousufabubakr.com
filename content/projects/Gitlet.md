@@ -1,8 +1,8 @@
 ---
 date: '2022-4-15'
 title: 'Gitlet'
-github: 'https://github.com/YousufAbubakr/Gitlet'
-external: 'https://github.com/YousufAbubakr'
+
+external: 'https://github.com/YousufAbubakr/Gitlet'
 tech:
   - Java
   - Git
