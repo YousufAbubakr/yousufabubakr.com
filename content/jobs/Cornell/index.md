@@ -7,4 +7,5 @@ range: 'May 2023 - August 2023'
 url: 'https://blogs.cornell.edu/bouklaslab/'
 ---
 
-- Multiscale computational, theoretical, and experimental solid mechanics of biomaterials and engineering metals
+- Built and analyzed efficacy of 4+ multi-scale computational biomaterial and engineering metal FEA models
+- Designed and assembled fixture for nanoscale metal impact tester to improve testing efficiency and precision

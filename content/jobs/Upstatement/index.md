@@ -7,9 +7,10 @@ range: 'December 2020 - Present'
 url: 'https://oconnell.berkeley.edu/finite-element-modeling/'
 ---
 
-- Developed 3+ ANSYS Meshing models by optimizing node/element features to account for node conformity at contact regions, unique material assignments, and simulation parameters in [FEBio](https://febio.org) (Biomechanics solver)
-- Enhanced validation of FEM bovine model by constructing 7+ experiments in FEBio to verify mechanical properties of model over multiple loading modalities and physical, experimental data
-- Modeled 4+ biphasic and triphasic tissue structures in FEBio to examine stress and strain distributions and to simulate transport of solvent, ion, and water contents in fiber-reinforced tissues
-- Assembled FEA data from FEBio in MATLAB to categorize, curve-fit, and graph results of computational models
+- Used experimental testing framework to guide FEA modeling of 7+ multi-scale tissue and joint level models
+- Enhanced validation of FEA models to verify mechanical properties over multiple loading modalities and physical data
+- Post-processed and analyzed stress and strain distributions in fiber-reinforced tissues in MATLAB and Paraview
+- Tested 10+ IVD tissue samples in uniaxial loading conditions to investigate chemical and anisotropic disc characteristics
+- Parameterized scoliotic joint level model to measure and validate how varying degrees of surgical corrective tethering techniques impact long term spinal growth and health
 - [NSF REU Summer 2021](https://www.nsf.gov/crssprgm/reu/)
 

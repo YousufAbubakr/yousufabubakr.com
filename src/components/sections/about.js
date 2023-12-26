@@ -125,7 +125,7 @@ const About = () => {
     sr.reveal(revealContainer.current, srConfig());
   }, []);
 
-  const skills = ['Materials', 'Fluids', 'Machine Learning', 'Information Systems', 'Design', 'FEA', 'Manufacturing'];
+  const skills = ['Scoliotic Spine Biomechanics', 'Computer Vision ML', 'Assembly + Part Design', 'FEA Theory'];
 
   return (
     <StyledAboutSection id="about" ref={revealContainer}>
@@ -150,7 +150,7 @@ const About = () => {
               main focus these days is expanding my engineering portfolio and I would love any oppurtunity to do so.
             </p>
 
-            <p>Here are a few MechE/EECS topics I've been enjoying recently:</p>
+            <p>Here are a few things I've been enjoying recently:</p>
           </div>
 
           <ul className="skills-list">
