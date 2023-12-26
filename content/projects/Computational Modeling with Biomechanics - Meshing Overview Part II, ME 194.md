@@ -7,7 +7,7 @@ tech:
   - ANSYS
   - Gmsh
 company: O'Connell Lab
-showInProjects: true
+showInProjects: false
 ---
 
 A more refined Part II of the FEM procedure for modeling fiber-reinforced tissues. This project is still a lot harder than I thought it would be...

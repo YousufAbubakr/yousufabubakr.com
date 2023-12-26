@@ -8,7 +8,7 @@ tech:
   - Excel
   
 company: 'Engin 26'
-showInProjects: true
+showInProjects: false
 ---
 
 A finite element analysis of a windmill for the purpose of maximizing the stiffness-to-weight ratio.
