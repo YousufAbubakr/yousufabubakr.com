@@ -1,11 +1,10 @@
 ---
-date: '2022-4-15'
+date: '2022-03-02'
 title: 'Gitlet'
 
 external: 'https://github.com/YousufAbubakr/Gitlet'
 tech:
   - Java
-  - Git
 company: UC Berkeley
 showInProjects: true
 

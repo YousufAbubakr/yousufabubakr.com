@@ -5,6 +5,7 @@ title: 'Scoliotic Model and Overcorrection Study'
 external: 'https://drive.google.com/file/d/1IvNrPP6Xnu_Pt1_2mnDCM3g5IB9L9vmv/view?usp=sharing'
 tech:
   - FEBio
+company: O'Connell Lab
 showInProjects: false
 ---
 
