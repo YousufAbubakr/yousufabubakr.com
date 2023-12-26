@@ -137,7 +137,7 @@ const About = () => {
             <p>
               Whats up! My name is Yousuf and I enjoy working on cool engineering projects. Right now, 
               I'm enjoying my academic life as a MechE major and EECS minor - as an engineer, I really
-              appreciate the overlap and interplay between these two subjects and the tools they give
+              appreciate the interplay between these two subjects and the tools they give
               me to answer engineering questions. In my free time, you WON'T be catching me watching the 
               latest Suns game, working on my basketball shooting form, &amp; struggling with linear algebra 
               proofs.
@@ -162,7 +162,7 @@ const About = () => {
           <div className="wrapper">
             <StaticImage
               className="img"
-              src="../../images/me4.jpg"
+              src="../../images/me6.png"
               width={500}
               quality={95}
               formats={['AUTO', 'WEBP', 'AVIF']}
