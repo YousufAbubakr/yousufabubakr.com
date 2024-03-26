@@ -1,6 +1,6 @@
 ---
 date: '4'
-title: 'FEM of Irrotational, Incompressible Flow'
+title: 'Potential Flow FEM'
 cover: './pressure.png'
 
 external: 'https://drive.google.com/file/d/1xSlFIxWxnl7fI3sbMctYutDNbZjBh_F8/view?usp=sharing'
