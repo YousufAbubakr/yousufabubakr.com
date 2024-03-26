@@ -1,6 +1,6 @@
 ---
-date: '4'
-title: 'Irrotational, Incompressible Flow around NACA 5012 Airfoil'
+date: '2024-03-01'
+title: 'FEM of Irrotational, Incompressible Flow'
 cover: './pressure.png'
 
 external: 'https://drive.google.com/file/d/1xSlFIxWxnl7fI3sbMctYutDNbZjBh_F8/view?usp=sharing'
